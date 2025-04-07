@@ -17,7 +17,7 @@ linqh8@mail2.sysu.edu.cn; linqinghai@sdjtu.edu.cn
 
 2019.09-2023.12：中山大学，计算机科学与技术（智能交通工程）专业，博士
 
-2017.12-2018.03：美国内华达大学，土木与环境工程专业，访学
+2017.12-2018.03：University of Nevada, Reno, Civil and Environmental Engineering，访学
 
 2016.09-2019.06：重庆交通大学，交通运输工程专业，硕士
 
