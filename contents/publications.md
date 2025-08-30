@@ -8,7 +8,7 @@
 
 \[5] **<u>蔺庆海</u>**, 刘伟\*, 王立超. (2019). 基于生存决策法的公交系统调度.科学技术与工程. (北大中文核心)
 
-\[6] **<u>Qinghai Lin</u>**, Guilong Li, Mengmeng Zhang, Jianchang Huang, Chunting Nie. (2025). CRM-DSTGC: A Coordinated Ramp Metering Method Integrated with Dynamic Spatial-temporal Graph Convolutional Model. _Transportation Research Board 104th Annual Meeting_, Washington D.C., USA, 2025.1.5-1.9. (TRB 会议, Journal of Transportation Research Record 二审中)
+\[6] **<u>Qinghai Lin</u>**, Guilong Li, Mengmeng Zhang, Jianchang Huang, Chunting Nie. (2025). CRM-DSTGC: A Coordinated Ramp Metering Method Integrated with Dynamic Spatial-temporal Graph Convolutional Model. _Transportation Research Board 104th Annual Meeting_, Washington D.C., USA, 2025.1.5-1.9. (TRB 会议)
 
 \[7] **<u>Qinghai Lin</u>**, Shunchao Wang, Chunting Nie. Identifying the Contributory Patterns of Road-Facility Factors on Bus-Involved Crashes by Using Latent Class Clustering and Association Rules Mining Approaches. _Transportation Research Board 103rd Annual Meeting_, Washington D.C., USA, 2024.1.7-1.11. (TRB 会议)
 
