@@ -14,3 +14,16 @@
 
 [1] 第十八届中国智能交通年会“十佳科技论文”奖，2023年，中国智能交通协会
 
+#### **主要兼职与社会服务：**
+
+山东公路学会交通工程专业委员会副秘书长
+
+山东正衢交通工程研究院智能交通研究所副所长
+
+世界交通运输大会（WTC）技术委员会青年委员
+
+《Digital Transportation and Safety》青年编委
+
+《山东交通学院学报》青年编委
+
+担任Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）等期刊审稿人。
