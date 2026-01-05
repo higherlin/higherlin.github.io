@@ -16,9 +16,13 @@
 
 [6] 王浩楠，张萌萌，**<u>蔺庆海</u>**，王月昊，张洁. 一种基于无人机航拍的车辆速度估算方法、设备及介质. (发明专利，已公开，2025-04-11). CN119810144A.
 
-#### **获奖：**
+#### **荣誉奖励：**
 
 [1] 第十八届中国智能交通年会“十佳科技论文”奖，2023年，中国智能交通协会
+
+[2] 第二十二届中国研究生数学建模竞赛三等奖（指导老师），2025
+
+[3] 2025年大学生创新创业大赛国家级立项（指导老师），2025
 
 #### **主要兼职与社会服务：**
 
@@ -34,6 +38,7 @@
 
 《山东交通学院学报》青年编委
 
-担任IEEE Transaction on ITS, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）等期刊审稿人。
+担任IEEE Transaction on ITS, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）等期刊审稿人
+
 
 
