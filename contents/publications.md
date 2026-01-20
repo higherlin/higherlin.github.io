@@ -22,14 +22,20 @@
 
 \[12] **<u>Qinghai Lin</u>**, Wei Liu, Zhaocheng He\*. (2020). Coordinated Control Methods of Artery for Oversaturated Primary Direction in the Critical Intersection with Bidirectional Green Waves. _2020 CICTP Conference_, Xi’an, China. (COTA 会议, EI 检索)
 
-\[13] Shunchao Wang<sup>1</sup>, **<u>Qinghai Lin</u>**<sup>1</sup>, Ziyi Zhou, Chunting Nie. (2023). Exploring the Role of Attitudinal Factors in Electric Vehicle Timeshare Rentals Adoption. _Applied Sciences_. 2023; 13(1):12. [[链接]](https://doi.org/10.3390/app13010012). (共一, SCI, JCR Q2)
+\[13] Yuhuan Lu, Chunting Nie, Binbin Song, Sunyan Hong, **<u>Qinghai Lin\*</u>**. (2026). CMATP: Risk-Aware Continual Learning for Multi-Agent Trajectory Prediction. _2026 CICTP Conference_, Jinan, China, 2026.07.13-07.16. (COTA会议, EI检索)
 
-\[14] Yuhuan Lu, **<u>Qinghai Lin</u>**, Haiyang Chi, Jinyong Chen. (2023). Automatic Incident Detection Using Edge-Cloud Collaboration Based Deep Learning Scheme for Intelligent Transportation Systems. _Applied Intelligence_. [[链接]](https://doi.org/10.1007/s10489-023-04673-7). (SCI, JCR Q2)
+\[14] Qingyou Wang, Borui Xu, Chenyu Zhang, Haowen Dong, **<u>Qinghai Lin\*</u>**. (2026). A Game-Theoretic Passing Strategy for Connected Autonomous Vehicles at Unsignalized Intersections. _2026 CICTP Conference_, Jinan, China, 2026.07.13-07.16. (COTA会议, EI检索)
 
-\[15] Jingcai Yu, **<u>Qinghai Lin</u>**, Hongliang Ding, Tao Feng, Wenquan Li. (2024) Examining Individuals' Preferences towards Flex Route Transit. _Transportation Planning and Technology_. [[链接]](https://doi.org/10.1080/03081060.2024.2320317). (SCI, JCR Q4)
+\[15] Zhi Jiao, Chenyu Zhang, Zhenchen Sun, Yaoyang Wang, **<u>Qinghai Lin\*</u>**. (2026). Traffic Conflict Characteristics Analysis in the Exit Ramp Connecting Areas of Urban Expressways. _2026 CICTP Conference_, Jinan, China, 2026.07.13-07.16. (COTA会议, EI检索)
 
-\[16] Zhigang Wu, Zhaocheng He, **<u>Qinghai Lin</u>**, Jiyu Wang, Guilong Li. Vehicular Ad Hoc Networks Topology Optimization for Autonomous Intersection Management System: A Periodic Intervention-Based Approach. _IEEE Transactions on Intelligent Transportation Systems_.[[链接]](https://doi.org/10.1109/TITS.2024.3412771). (SCI, JCR Q1, **TOP 期刊**)
+\[16] Shunchao Wang<sup>1</sup>, **<u>Qinghai Lin</u>**<sup>1</sup>, Ziyi Zhou, Chunting Nie. (2023). Exploring the Role of Attitudinal Factors in Electric Vehicle Timeshare Rentals Adoption. _Applied Sciences_. 2023; 13(1):12. [[链接]](https://doi.org/10.3390/app13010012). (共一, SCI, JCR Q2)
 
-\[17] Jianchang Huang, Xin Wang, **<u>Qinghai Lin</u>**, Guohua Song, Lei Yu. (2025). Unraveling Inter-Driver and Intra-Driver Uncertainty: An Eco-Driving Evaluation and Optimization Method. _Energy_. [[链接]](https://doi.org/10.1016/j.energy.2025.135501). (SCI, JCR Q1, **TOP 期刊**)
+\[17] Yuhuan Lu, **<u>Qinghai Lin</u>**, Haiyang Chi, Jinyong Chen. (2023). Automatic Incident Detection Using Edge-Cloud Collaboration Based Deep Learning Scheme for Intelligent Transportation Systems. _Applied Intelligence_. [[链接]](https://doi.org/10.1007/s10489-023-04673-7). (SCI, JCR Q2)
 
-\[18] Hongliang Ding, Yuhuan Lu, Tony Sze, Tiantian Chen, Yanyong Guo, **<u>Qinghai Lin</u>**. (2022). A Deep Generative Approach for Crash Frequency Model with Heterogeneous Imbalanced Data. _Analytic Methods in Accident Research_. [[链接]](https://doi.org/10.1016/j.amar.2022.100212). (SSCI, JCR Q1, **TOP 期刊**)
+\[18] Jingcai Yu, **<u>Qinghai Lin</u>**, Hongliang Ding, Tao Feng, Wenquan Li. (2024) Examining Individuals' Preferences towards Flex Route Transit. _Transportation Planning and Technology_. [[链接]](https://doi.org/10.1080/03081060.2024.2320317). (SCI, JCR Q4)
+
+\[19] Zhigang Wu, Zhaocheng He, **<u>Qinghai Lin</u>**, Jiyu Wang, Guilong Li. Vehicular Ad Hoc Networks Topology Optimization for Autonomous Intersection Management System: A Periodic Intervention-Based Approach. _IEEE Transactions on Intelligent Transportation Systems_.[[链接]](https://doi.org/10.1109/TITS.2024.3412771). (SCI, JCR Q1, **TOP 期刊**)
+
+\[20] Jianchang Huang, Xin Wang, **<u>Qinghai Lin</u>**, Guohua Song, Lei Yu. (2025). Unraveling Inter-Driver and Intra-Driver Uncertainty: An Eco-Driving Evaluation and Optimization Method. _Energy_. [[链接]](https://doi.org/10.1016/j.energy.2025.135501). (SCI, JCR Q1, **TOP 期刊**)
+
+\[21] Hongliang Ding, Yuhuan Lu, Tony Sze, Tiantian Chen, Yanyong Guo, **<u>Qinghai Lin</u>**. (2022). A Deep Generative Approach for Crash Frequency Model with Heterogeneous Imbalanced Data. _Analytic Methods in Accident Research_. [[链接]](https://doi.org/10.1016/j.amar.2022.100212). (SSCI, JCR Q1, **TOP 期刊**)
