@@ -22,7 +22,7 @@
 
 [2] 第二十二届中国研究生数学建模竞赛三等奖（指导老师），2025
 
-[3] 2025年大学生创新创业大赛国家级立项（指导老师），2025
+[3] 2025年大学生创新创业大赛国家级项目立项（指导老师），2025
 
 #### **主要兼职与社会服务：**
 
@@ -39,6 +39,7 @@
 《山东交通学院学报》青年编委
 
 担任IEEE Transaction on ITS, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）等期刊审稿人
+
 
 
 
