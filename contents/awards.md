@@ -18,7 +18,7 @@
 
 #### **荣誉奖励：**
 
-[1] 第十八届中国智能交通年会“十佳科技论文”奖，2023年，中国智能交通协会
+[1] 第十八届中国智能交通年会“十佳科技论文”奖，2023，中国智能交通协会
 
 [2] 第二十二届中国研究生数学建模竞赛三等奖（指导老师），2025
 
@@ -39,6 +39,7 @@
 《山东交通学院学报》青年编委
 
 担任IEEE Transaction on ITS, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）等期刊审稿人
+
 
 
 
