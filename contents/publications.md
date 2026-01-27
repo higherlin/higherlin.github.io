@@ -6,7 +6,7 @@
 
 \[3] **<u>Qinghai Lin</u>**, Jinyong Chen, Guilong Li, Zhaocheng He\*. (2022). Signal Timing Parameters Inference Method at Intersections Using License Plate Recognition Data. _IET Intelligent Transport Systems_. [[链接]](https://doi.org/10.1049/itr2.12198). (SCI, JCR Q3)
 
-\[4] Jianchang Huang, Hongliang Liu, Xin Wang\*, **<u>Qinghai Lin\*</u>**, Guohua Song, Pengfei Fan, Lei Yu. (2025). Real-World Autonomous Driving: Exploring Energy Dynamics in Gradually Evolving Traffic Flows. _IEEE Transactions on Intelligent Transportation Systems_. (通讯作者, SCI, JCR Q1, **TOP 期刊**)
+\[4] Jianchang Huang, Hongliang Liu, Xin Wang\*, **<u>Qinghai Lin\*</u>**, Guohua Song, Pengfei Fan, Lei Yu. (2026). Real-World Autonomous Driving: Exploring Energy Dynamics in Gradually Evolving Traffic Flows. _IEEE Transactions on Intelligent Transportation Systems_. (通讯作者, SCI, JCR Q1, **TOP 期刊**)
 
 \[5] Chunting Nie, Shunchao Wang, **<u>Qinghai Lin\*</u>**. (2026). Identifying the contributory chains and patterns of road facilities in bus-involved crashes using latent class clustering and association rules. _Traffic Injury Prevention_.  [[链接]](https://doi.org/10.1080/15389588.2025.2595681). (通讯作者, SCI, JCR Q3)
 
