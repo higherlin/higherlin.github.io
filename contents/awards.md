@@ -47,7 +47,7 @@
 
 《山东交通学院学报》，青年编委
 
-担任IEEE Transaction on ITS, Transportation Research Part A：Policy and Practice, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, 吉林大学学报（工学版）, IEEE ITSC, CICTP, WTC等交通类期刊和会议审稿人
+担任IEEE Transaction on ITS, Transportation Research Part A：Policy and Practice, Transportmetrica A: TransportScience, IET Intelligent Transport Systems, Journal of Advanced Transportation, Journal of Transportation Safety & Security, 吉林大学学报（工学版）, 山东大学学报(工学版), IEEE ITSC, CICTP, WTC等交通类期刊和会议审稿人
 
 
 
