@@ -36,9 +36,9 @@
 
 \[2] Haonan Wang, **<u>Qinghai Lin\*</u>**, Mengmeng Zhang\*. (2026). MM-GSU: A SHORT-TERM TRAFFIC STATE PREDICTION METHOD FOR URBAN EXPRESSWAY WEAVING AREAS. _Transportation Research Board 105th Annual Meeting_, Washington D.C., USA, 2026.1.11-1.15. (TRB 会议)
 
-\[3] **<u>Qinghai Lin</u>**, Guilong Li, Mengmeng Zhang, Jianchang Huang, Chunting Nie. (2025). CRM-DSTGC: A Coordinated Ramp Metering Method Integrated with Dynamic Spatial-temporal Graph Convolutional Model. _Transportation Research Board 104th Annual Meeting_, Washington D.C., USA, 2025.1.5-1.9. (TRB 会议)
+\[3] **<u>Qinghai Lin</u>**, Guilong Li, Mengmeng Zhang, Jianchang Huang, Chunting Nie\*. (2025). CRM-DSTGC: A Coordinated Ramp Metering Method Integrated with Dynamic Spatial-temporal Graph Convolutional Model. _Transportation Research Board 104th Annual Meeting_, Washington D.C., USA, 2025.1.5-1.9. (TRB 会议)
 
-\[4] **<u>Qinghai Lin</u>**, Shunchao Wang, Chunting Nie. (2024). Identifying the Contributory Patterns of Road-Facility Factors on Bus-Involved Crashes by Using Latent Class Clustering and Association Rules Mining Approaches. _Transportation Research Board 103rd Annual Meeting_, Washington D.C., USA, 2024.1.7-1.11. (TRB 会议)
+\[4] **<u>Qinghai Lin</u>**, Shunchao Wang, Chunting Nie\*. (2024). Identifying the Contributory Patterns of Road-Facility Factors on Bus-Involved Crashes by Using Latent Class Clustering and Association Rules Mining Approaches. _Transportation Research Board 103rd Annual Meeting_, Washington D.C., USA, 2024.1.7-1.11. (TRB 会议)
 
 \[5] **<u>Qinghai Lin</u>**, Qiyuan Fu, Changle Dong, Xujiayin Zhao, Ruihan Wu, Mengmeng Zhang\*. (2025). A Sequential Signal Timing Schemes Inference Framework Using Automatic Vehicle Identification Data. _2025 CICTP Conference_, Guangzhou, China. (COTA 会议, EI 检索)
 
