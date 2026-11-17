@@ -34,7 +34,7 @@
 
 \[1] Jiaxuan Song, Mengmeng Zhang, **<u>Qinghai Lin\*</u>**. (2027). Cooperative Gap Formation Control Using Mainline CAVs for Urban Expressway Merge–Weaving Areas. _Transportation Research Board 106th Annual Meeting_, Washington D.C., USA, 2027.1.10-1.14. (TRB 会议)
 
-\[2] Haonan Wang, **<u>Qinghai Lin\*</u>**, Mengmeng Zhang\*. (2026). MM-GSU: A SHORT-TERM TRAFFIC STATE PREDICTION METHOD FOR URBAN EXPRESSWAY WEAVING AREAS. _Transportation Research Board 105th Annual Meeting_, Washington D.C., USA, 2026.1.11-1.15. (TRB 会议)
+\[2] Haonan Wang, **<u>Qinghai Lin\*</u>**, Mengmeng Zhang\*. (2026). MM-GSU: A Short-term Traffic State Prediction Method for Urban Expressway Weaving Areas. _Transportation Research Board 105th Annual Meeting_, Washington D.C., USA, 2026.1.11-1.15. (TRB 会议)
 
 \[3] **<u>Qinghai Lin</u>**, Guilong Li, Mengmeng Zhang, Jianchang Huang, Chunting Nie\*. (2025). CRM-DSTGC: A Coordinated Ramp Metering Method Integrated with Dynamic Spatial-temporal Graph Convolutional Model. _Transportation Research Board 104th Annual Meeting_, Washington D.C., USA, 2025.1.5-1.9. (TRB 会议)
 
